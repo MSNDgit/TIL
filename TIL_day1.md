@@ -3,8 +3,6 @@
 
 ```
 중복된 date가 존재 여부 확인
-```
-```
 index.is_unique
 #True False로 출력
 ```
