@@ -1,3 +1,6 @@
+matplot 만들기
+파이썬 머신러닝 판다스 데이터 분석158p.
+
 import matplotlib.pyplot as plt
 import seaborn as sns
 
